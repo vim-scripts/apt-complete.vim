@@ -3,6 +3,5 @@ MANIFEST
 MANIFEST.SKIP
 META
 plugin/aptcomplete.vim
-README
 README.md
 VIMMETA.yml

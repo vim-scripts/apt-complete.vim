@@ -12,7 +12,7 @@
 
 # -------- meta section ------
 REPOSITORY = git://....../
-VERSION = 0.11
+VERSION = 0.13
 NAME = apt-complete.vim
 AUTHOR = Cornelius
 VERSION_FROM = plugin/aptcomplete.vim
@@ -20,7 +20,7 @@ LIBPATH = .
 EMAIL = cornelius.howl@gmail.com
 TYPE = plugin
 SCRIPT_ID = 2925
-DISTNAME = apt-complete-vim-0.11
+DISTNAME = apt-complete-vim-0.13
 VIM_VERSION = 7.2
 
 
@@ -43,7 +43,7 @@ NOECHO = @
 NOOP = $(TRUE)
 PERLFLAGS =  -Ilib 
 PWD = `pwd`
-README =  README
+README = 
 RM_F = rm -vf
 RM_RF = rm -rf
 TAR = COPY_EXTENDED_ATTRIBUTES_DISABLE=1 COPYFILE_DISABLE=1 tar
