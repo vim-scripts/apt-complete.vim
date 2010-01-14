@@ -12,7 +12,7 @@
 
 # -------- meta section ------
 REPOSITORY = git://....../
-VERSION = 0.13
+VERSION = 0.14
 NAME = apt-complete.vim
 AUTHOR = Cornelius
 VERSION_FROM = plugin/aptcomplete.vim
@@ -20,7 +20,7 @@ LIBPATH = .
 EMAIL = cornelius.howl@gmail.com
 TYPE = plugin
 SCRIPT_ID = 2925
-DISTNAME = apt-complete-vim-0.13
+DISTNAME = apt-complete-vim-0.14
 VIM_VERSION = 7.2
 
 

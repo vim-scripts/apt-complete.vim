@@ -6,7 +6,7 @@ name: apt-complete.vim
 repository: git://....../
 script_id: 2925
 type: plugin
-version: 0.13
+version: 0.14
 version_from: plugin/aptcomplete.vim
 vim_version:
   op: '>='
